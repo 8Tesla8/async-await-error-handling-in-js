@@ -1,3 +1,3 @@
-# Error handing for HTTP request in JavaScript
+# Error handling for HTTP requests in JavaScript
 
 Obsevable, try/catch, Promise, async/await
