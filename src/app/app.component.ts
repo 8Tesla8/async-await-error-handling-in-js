@@ -27,6 +27,8 @@ export class AppComponent implements OnInit {
       let result = await this.service.errorInPromise();
     } catch (error) {
       console.log(error);
+    } finally{
+
     }
 
 
